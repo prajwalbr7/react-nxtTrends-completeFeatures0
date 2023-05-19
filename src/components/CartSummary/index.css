@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.cart-summery-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.cart-summery-para-style1 {
+  font-family: 'Roboto';
+  font-size: 17px;
+  font-weight: 400;
+  color: #616e7c;
+
+  line-height: 1;
+}
+.span-cart-summery-style {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 600;
+  color: #171f46;
+  line-height: 1;
+}
+.cart-para2 {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 500;
+  color: #616e7c;
+  margin-top: 0px;
+  line-height: 1;
+}
+.cart-summery-style {
+  background-color: #0b69ff;
+  font-family: 'Roboto';
+  font-size: 12px;
+  color: #ffffff;
+  width: 100%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-width: 0px;
+  border-radius: 3px;
+  cursor: pointer;
+  outline: none;
+}
